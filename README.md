@@ -1,1 +1,1 @@
-# Taberu---Food-Finder-Application
+# Taberu-Food-Finder-Application
